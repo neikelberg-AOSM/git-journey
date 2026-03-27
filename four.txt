@@ -1,9 +1,2 @@
 four
-<<<<<<< HEAD
 444
-=======
-4
-hello
-FOUR
-44
->>>>>>> staging
